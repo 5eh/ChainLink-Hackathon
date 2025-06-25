@@ -4,6 +4,8 @@
 
 Read `https://docs.chain.link/chainlink-functions` - Create an Alchemy API URL for data retrieval on chain, and set up an env.enc, BEFORE STARTING AND DEPLOYING THIS.
 
+ALL WORK IS INSIDE OF EXAMPLES/MAIN
+
 ---
 
 1. Deploy Contract (`temp.sol`) on Remix
